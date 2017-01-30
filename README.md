@@ -1,0 +1,2 @@
+# parancs
+parancs
